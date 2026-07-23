@@ -1,0 +1,11 @@
+Offset(V)     Pid     Handle     Access Type             Details
+---------- ------ ---------- ---------- ---------------- -------
+0x82094028   1384        0xc   0x100020 File             \Device\HarddiskVolume1\WINDOWS\system32
+0x81cb1d20   1384       0x4c   0x100001 File             \Device\KsecDD
+0x8209b488   1384       0x64   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x82128280   1384       0x70   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x81c9e918   1384       0xf8   0x12019f File             \Device\NamedPipe\net\NtControlPipe13
+0x81ceeb90   1384      0x11c   0x12019f File             \Device\WMIDataDevice
+0x82256928   1384      0x128   0x12019f File             \Device\WMIDataDevice
+0x82073228   1384      0x160   0x12019f File             \Device\Control
+0x81cec5e8   1384      0x188   0x12019f File             \Device\Filter\SSLFilterChannel

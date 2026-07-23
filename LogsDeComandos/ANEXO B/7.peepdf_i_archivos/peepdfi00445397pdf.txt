@@ -1,0 +1,51 @@
+File: 00445397.pdf
+MD5: 4c1d41459dc5b476394ceb06471dd1f8
+SHA1: 81d58bc67795d334fea919b6b99cd45be450fae7
+SHA256: e82251117ee806172733a387eed8b93e1ad5bd3876d20ab92304f31a492e96cb
+Size: 419 bytes
+IDs: 
+        Version 0: None
+
+PDF Format Version: 1.4
+Binary: False
+Linearized: False
+Encrypted: False
+Updates: 0
+Objects: 3
+Streams: 0
+URIs: 0
+Comments: 0
+Errors: 1
+
+Version 0:
+        Catalog: 2
+        Info: No 
+        Objects (3): [1, 2, 3]
+        Streams (0): []
+
+
+[2026-07-16 00:45:40] File: 00445397.pdf
+MD5: 4c1d41459dc5b476394ceb06471dd1f8
+SHA1: 81d58bc67795d334fea919b6b99cd45be450fae7
+SHA256: e82251117ee806172733a387eed8b93e1ad5bd3876d20ab92304f31a492e96cb
+Size: 419 bytes
+IDs: 
+        Version 0: None
+
+PDF Format Version: 1.4
+Binary: False
+Linearized: False
+Encrypted: False
+Updates: 0
+Objects: 3
+Streams: 0
+URIs: 0
+Comments: 0
+Errors: 1
+
+Version 0:
+        Catalog: 2
+        Info: No 
+        Objects (3): [1, 2, 3]
+        Streams (0): []
+

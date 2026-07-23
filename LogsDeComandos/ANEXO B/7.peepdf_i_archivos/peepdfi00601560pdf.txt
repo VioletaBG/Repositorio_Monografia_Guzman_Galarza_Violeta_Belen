@@ -1,0 +1,2 @@
+[2026-07-16 01:06:34] SyntaxError: Unexpected end of input (  @ 95 : 19 )  ->     return VzBJVOyp
+[!] Error: An error has occurred while parsing an indirect object: 1054 0 obj ([!] Error creating PDFStream: [!] Error analysing Javascript: SyntaxError: Unexpected end of input (  @ 95 : 19 )  ->     return VzBJVOyp)

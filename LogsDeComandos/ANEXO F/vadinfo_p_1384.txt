@@ -1,0 +1,785 @@
+************************************************************************
+Pid:   1384
+VAD node @ 0x822f3938 Start 0x00840000 End 0x0087ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ca7900 Start 0x00640000 End 0x006bffff Tag VadS
+Flags: CommitCharge: 128, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81d06470 Start 0x003c0000 End 0x003cffff Tag VadS
+Flags: CommitCharge: 8, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ec87b0 Start 0x000b0000 End 0x001affff Tag VadS
+Flags: CommitCharge: 34, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ce4100 Start 0x00020000 End 0x00020fff Tag VadS
+Flags: CommitCharge: 1, MemCommit: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x820b4978 Start 0x00010000 End 0x00010fff Tag VadS
+Flags: CommitCharge: 1, MemCommit: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81cb0e00 Start 0x00080000 End 0x0009cfff Tag VadS
+Flags: CommitCharge: 29, MemCommit: 1, PrivateMemory: 1, Protection: 6
+Protection: PAGE_EXECUTE_READWRITE
+
+VAD node @ 0x820a1418 Start 0x00040000 End 0x0007ffff Tag Vadl
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, ReadOnly: 1
+
+VAD node @ 0x8209aa58 Start 0x00030000 End 0x00030fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x82128088 Start 0x000a0000 End 0x000a2fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81cfbaf8 Segment e1e8f4b8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               10 NumberOfUserReferences:         11
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e1e8f4f8 Last contiguous PTE: e1e8f508
+Flags2: Inherit: 1, SecNoChange: 1
+
+VAD node @ 0x81d389a0 Start 0x001f0000 End 0x0022cfff Tag Vad 
+Flags: Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81dcc2b8 Segment e155f260
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           4
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1
+FileObject @81e4f4b0, Name: \Device\HarddiskVolume1\WINDOWS\system32\locale.nls
+First prototype PTE: e15df608 Last contiguous PTE: e15df7e8
+Flags2: CopyOnWrite: 1
+
+VAD node @ 0x820b9560 Start 0x001c0000 End 0x001cffff Tag Vad 
+Flags: Protection: 4
+Protection: PAGE_READWRITE
+ControlArea @820b0410 Segment e1dd75c0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           0
+NumberOfMappedViews:                2 NumberOfUserReferences:          2
+Control Flags: HadUserReference: 1, Reserve: 1
+First prototype PTE: e1dd7600 Last contiguous PTE: e1dd7678
+Flags2: 
+
+VAD node @ 0x81ec8a60 Start 0x001b0000 End 0x001bffff Tag VadS
+Flags: CommitCharge: 6, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x820e4a80 Start 0x001d0000 End 0x001e5fff Tag Vad 
+Flags: Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81ed81d8 Segment e1572260
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           5
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1
+FileObject @81f14590, Name: \Device\HarddiskVolume1\WINDOWS\system32\unicode.nls
+First prototype PTE: e157ec60 Last contiguous PTE: e157ed08
+Flags2: CopyOnWrite: 1
+
+VAD node @ 0x820a8868 Start 0x00280000 End 0x00285fff Tag Vad 
+Flags: Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81e4f428 Segment e1575260
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           4
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1
+FileObject @822a4210, Name: \Device\HarddiskVolume1\WINDOWS\system32\sorttbls.nls
+First prototype PTE: e156b268 Last contiguous PTE: e156b290
+Flags2: CopyOnWrite: 1
+
+VAD node @ 0x81d38970 Start 0x00230000 End 0x00270fff Tag Vad 
+Flags: Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81f14508 Segment e15da438
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           6
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1
+FileObject @81ebe028, Name: \Device\HarddiskVolume1\WINDOWS\system32\sortkey.nls
+First prototype PTE: e15e1008 Last contiguous PTE: e15e1208
+Flags2: CopyOnWrite: 1
+
+VAD node @ 0x820bce18 Start 0x00290000 End 0x00357fff Tag Vad 
+Flags: NoChange: 1, Protection: 3
+Protection: PAGE_EXECUTE_READ
+ControlArea @81e45720 Segment e15c9980
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               25 NumberOfUserReferences:         26
+Control Flags: HadUserReference: 1, Reserve: 1
+First prototype PTE: e15c99c0 Last contiguous PTE: e15c9ff8
+Flags2: SecNoChange: 1
+
+VAD node @ 0x820a1480 Start 0x00360000 End 0x00360fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81ca6178 Start 0x00370000 End 0x0037ffff Tag VadS
+Flags: CommitCharge: 6, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x820aef38 Start 0x00380000 End 0x00381fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81ccf7b0 Segment e1d6abe0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           0
+NumberOfMappedViews:                1 NumberOfUserReferences:          1
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e1d6ac20 Last contiguous PTE: e1d6ac28
+Flags2: Inherit: 1, SecNoChange: 1
+
+VAD node @ 0x822279b0 Start 0x003a0000 End 0x003a1fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81dffea8 Segment e1cad328
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           0
+NumberOfMappedViews:                1 NumberOfUserReferences:          1
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e1cad368 Last contiguous PTE: e1cad370
+Flags2: Inherit: 1, SecNoChange: 1
+
+VAD node @ 0x81cb2c50 Start 0x00390000 End 0x0039ffff Tag VadS
+Flags: CommitCharge: 4, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x8209e8b0 Start 0x003b0000 End 0x003b1fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @81d22378 Segment e1199ac0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           0
+NumberOfMappedViews:                1 NumberOfUserReferences:          1
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e1199b00 Last contiguous PTE: e1199b08
+Flags2: Inherit: 1, SecNoChange: 1
+
+VAD node @ 0x82080780 Start 0x00430000 End 0x00532fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @822c3448 Segment e15ca008
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               25 NumberOfUserReferences:         26
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e15ca048 Last contiguous PTE: e15ca858
+Flags2: SecNoChange: 1
+
+VAD node @ 0x820807b0 Start 0x003e0000 End 0x003e2fff Tag Vad 
+Flags: Protection: 1
+Protection: PAGE_READONLY
+ControlArea @8233b640 Segment e15da478
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           2
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1
+FileObject @822da598, Name: \Device\HarddiskVolume1\WINDOWS\system32\ctype.nls
+First prototype PTE: e15d7a10 Last contiguous PTE: e15d7a20
+Flags2: CopyOnWrite: 1
+
+VAD node @ 0x820a1460 Start 0x003d0000 End 0x003dffff Tag VadS
+Flags: CommitCharge: 4, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81cdae28 Start 0x003f0000 End 0x0042ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81cdb140 Start 0x005c0000 End 0x0063ffff Tag VadS
+Flags: CommitCharge: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81c6ef08 Start 0x00540000 End 0x005bffff Tag Vad 
+Flags: NoChange: 1, Protection: 3
+Protection: PAGE_EXECUTE_READ
+ControlArea @823af268 Segment e173b7b8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               11 NumberOfUserReferences:         12
+Control Flags: HadUserReference: 1, Reserve: 1
+First prototype PTE: e173b7f8 Last contiguous PTE: e173bbf0
+Flags2: SecNoChange: 1
+
+VAD node @ 0x820c0d98 Start 0x00780000 End 0x007bffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ca33f8 Start 0x00700000 End 0x0073ffff Tag VadS
+Flags: CommitCharge: 9, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81cb1f80 Start 0x006c0000 End 0x006fffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x82097df8 Start 0x00740000 End 0x0077ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x820be630 Start 0x00800000 End 0x0083ffff Tag VadS
+Flags: CommitCharge: 17, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ceeda0 Start 0x007c0000 End 0x007fffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x822bf8c0 Start 0x01000000 End 0x01005fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82266c98 Segment e175ea60
+NumberOfSectionReferences:          6 NumberOfPfnReferences:           6
+NumberOfMappedViews:                6 NumberOfUserReferences:         12
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d476d8, Name: \Device\HarddiskVolume1\WINDOWS\system32\svchost.exe
+First prototype PTE: e175eaa0 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81e596c0 Start 0x00a00000 End 0x00a3ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x822560c8 Start 0x00980000 End 0x009bffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x821f1e40 Start 0x00880000 End 0x0097ffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x82256130 Start 0x009c0000 End 0x009fffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e59ce0 Start 0x00ac0000 End 0x00afffff Tag VadS
+Flags: CommitCharge: 11, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e58d88 Start 0x00a80000 End 0x00abffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e59728 Start 0x00a40000 End 0x00a7ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e59258 Start 0x00b40000 End 0x00b7ffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e59d48 Start 0x00b00000 End 0x00b3ffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e58940 Start 0x00bc0000 End 0x00bfffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e592c0 Start 0x00b80000 End 0x00bbffff Tag VadS
+Flags: CommitCharge: 5, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e583a8 Start 0x00c40000 End 0x00c7ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81e589a8 Start 0x00c00000 End 0x00c3ffff Tag VadS
+Flags: CommitCharge: 3, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81ea2a98 Start 0x00c80000 End 0x00cbffff Tag VadS
+Flags: CommitCharge: 9, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+
+VAD node @ 0x81d30080 Start 0x7c900000 End 0x7c9affff Tag Vad 
+Flags: CommitCharge: 5, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @823c72d8 Segment e1517a10
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          97
+NumberOfMappedViews:               26 NumberOfUserReferences:         27
+Control Flags: Accessed: 1, DebugSymbolsLoaded: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81f10028, Name: \Device\HarddiskVolume1\WINDOWS\system32\ntdll.dll
+First prototype PTE: e1517a50 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81c8c548 Start 0x7c800000 End 0x7c8f3fff Tag Vad 
+Flags: CommitCharge: 6, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81f07088 Segment e13ac7f0
+NumberOfSectionReferences:          1 NumberOfPfnReferences:         108
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81e60380, Name: \Device\HarddiskVolume1\WINDOWS\system32\kernel32.dll
+First prototype PTE: e13ac830 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820a8838 Start 0x77dd0000 End 0x77e6afff Tag Vad 
+Flags: CommitCharge: 5, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81f05a40 Segment e155cab8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          94
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81f06aa8, Name: \Device\HarddiskVolume1\WINDOWS\system32\advapi32.dll
+First prototype PTE: e155caf8 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cd9ab0 Start 0x5cb70000 End 0x5cb95fff Tag Vad 
+Flags: CommitCharge: 21, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81e5a858 Segment e172de60
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          17
+NumberOfMappedViews:               14 NumberOfUserReferences:         14
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81e5a7a0, Name: \Device\HarddiskVolume1\WINDOWS\system32\shimeng.dll
+First prototype PTE: e172dea0 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81deb298 Start 0x5ad70000 End 0x5ada7fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81dfee18 Segment e1730cd8
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          35
+NumberOfMappedViews:               22 NumberOfUserReferences:         22
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81dfe880, Name: \Device\HarddiskVolume1\WINDOWS\system32\uxtheme.dll
+First prototype PTE: e1730d18 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cdcb48 Start 0x0ffd0000 End 0x0fff7fff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81d4b690 Segment e172c8b0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          39
+NumberOfMappedViews:               11 NumberOfUserReferences:         11
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d49840, Name: \Device\HarddiskVolume1\WINDOWS\system32\rsaenh.dll
+First prototype PTE: e172c8f0 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820905e8 Start 0x20000000 End 0x202c4fff Tag Vad 
+Flags: ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81d47c18 Segment e179d000
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          77
+NumberOfMappedViews:               17 NumberOfUserReferences:         17
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82119cb0, Name: \Device\HarddiskVolume1\WINDOWS\system32\xpsp2res.dll
+First prototype PTE: e179d040 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820905b8 Start 0x5aa90000 End 0x5aa96fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @820b4998 Segment e20f5990
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           6
+NumberOfMappedViews:                1 NumberOfUserReferences:          1
+Control Flags: File: 1, HadUserReference: 1, Image: 1
+FileObject @81ed4600, Name: \Device\HarddiskVolume1\WINDOWS\system32\w3ssl.dll
+First prototype PTE: e20f59d0 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820aceb8 Start 0x5b860000 End 0x5b8b3fff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81d5f438 Segment e1560838
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          32
+NumberOfMappedViews:               16 NumberOfUserReferences:         17
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d5f3c0, Name: \Device\HarddiskVolume1\WINDOWS\system32\netapi32.dll
+First prototype PTE: e1560878 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820bcde8 Start 0x6f880000 End 0x6fa49fff Tag Vad 
+Flags: CommitCharge: 10, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81eda578 Segment e1735008
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          31
+NumberOfMappedViews:               14 NumberOfUserReferences:         14
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82126f90, Name: \Device\HarddiskVolume1\WINDOWS\AppPatch\AcGenral.dll
+First prototype PTE: e1735048 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820aef08 Start 0x5d090000 End 0x5d126fff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81f0ba28 Segment e1577ad8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          60
+NumberOfMappedViews:               17 NumberOfUserReferences:         18
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81f0b9b0, Name: \Device\HarddiskVolume1\WINDOWS\system32\comctl32.dll
+First prototype PTE: e1577b18 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x82083258 Start 0x6f290000 End 0x6f2a5fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @820b4700 Segment e1f19928
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          20
+NumberOfMappedViews:                1 NumberOfUserReferences:          1
+Control Flags: File: 1, HadUserReference: 1, Image: 1
+FileObject @81ed4b10, Name: \Device\HarddiskVolume1\WINDOWS\system32\strmfilt.dll
+First prototype PTE: e1f19968 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x82083228 Start 0x67570000 End 0x67578fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @820cdae0 Segment e1530518
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           8
+NumberOfMappedViews:                2 NumberOfUserReferences:          2
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81ce36a8, Name: \Device\HarddiskVolume1\WINDOWS\system32\httpapi.dll
+First prototype PTE: e1530558 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x82104a40 Start 0x77d40000 End 0x77dcffff Tag Vadl
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @822c16a8 Segment e1566b10
+NumberOfSectionReferences:          1 NumberOfPfnReferences:         101
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @822c1340, Name: \Device\HarddiskVolume1\WINDOWS\system32\user32.dll
+First prototype PTE: e1566b50 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1, LongVad: 1, ReadOnly: 1
+
+VAD node @ 0x82082690 Start 0x76b40000 End 0x76b6cfff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82126e98 Segment e16e4408
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          19
+NumberOfMappedViews:               19 NumberOfUserReferences:         19
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82126b80, Name: \Device\HarddiskVolume1\WINDOWS\system32\winmm.dll
+First prototype PTE: e16e4448 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81deb2c8 Start 0x769c0000 End 0x76a72fff Tag Vad 
+Flags: CommitCharge: 3, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81dcc8d0 Segment e15619f8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          21
+NumberOfMappedViews:               18 NumberOfUserReferences:         19
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81dcc858, Name: \Device\HarddiskVolume1\WINDOWS\system32\userenv.dll
+First prototype PTE: e1561a38 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81c9d6c8 Start 0x71ab0000 End 0x71ac6fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81ed9008 Segment e1638b98
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          18
+NumberOfMappedViews:               23 NumberOfUserReferences:         23
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d47028, Name: \Device\HarddiskVolume1\WINDOWS\system32\ws2_32.dll
+First prototype PTE: e1638bd8 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x8209e880 Start 0x71aa0000 End 0x71aa7fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81d470e0 Segment e1636ed0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           6
+NumberOfMappedViews:               23 NumberOfUserReferences:         23
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d45938, Name: \Device\HarddiskVolume1\WINDOWS\system32\ws2help.dll
+First prototype PTE: e1636f10 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cf4d78 Start 0x71ad0000 End 0x71ad8fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81ddc3d8 Segment e1a49188
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           6
+NumberOfMappedViews:               23 NumberOfUserReferences:         23
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81ecb988, Name: \Device\HarddiskVolume1\WINDOWS\system32\wsock32.dll
+First prototype PTE: e1a491c8 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81e5c868 Start 0x71bf0000 End 0x71c02fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81eda868 Segment e16e4818
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          11
+NumberOfMappedViews:               10 NumberOfUserReferences:         10
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81e5a398, Name: \Device\HarddiskVolume1\WINDOWS\system32\samlib.dll
+First prototype PTE: e16e4858 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x82082660 Start 0x774e0000 End 0x7761bfff Tag Vad 
+Flags: CommitCharge: 8, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81e57c98 Segment e157a008
+NumberOfSectionReferences:          1 NumberOfPfnReferences:         191
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82257a00, Name: \Device\HarddiskVolume1\WINDOWS\system32\ole32.dll
+First prototype PTE: e157a048 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820d84c8 Start 0x77120000 End 0x771abfff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81eb89f8 Segment e13ac318
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          90
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81e57c20, Name: \Device\HarddiskVolume1\WINDOWS\system32\oleaut32.dll
+First prototype PTE: e13ac358 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x822279e0 Start 0x76bf0000 End 0x76bfafff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82125008 Segment e1636ac0
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           7
+NumberOfMappedViews:               23 NumberOfUserReferences:         23
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81eda028, Name: \Device\HarddiskVolume1\WINDOWS\system32\psapi.dll
+First prototype PTE: e1636b00 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820ace88 Start 0x76f60000 End 0x76f8bfff Tag Vad 
+Flags: CommitCharge: 9, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82309b00 Segment e15399e0
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           7
+NumberOfMappedViews:               14 NumberOfUserReferences:         15
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82309a88, Name: \Device\HarddiskVolume1\WINDOWS\system32\wldap32.dll
+First prototype PTE: e1539a20 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81ed6f08 Start 0x773d0000 End 0x774d1fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @8226fe58 Segment e16d7008
+NumberOfSectionReferences:          0 NumberOfPfnReferences:         150
+NumberOfMappedViews:               22 NumberOfUserReferences:         22
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81ed4e08, Name: \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9\comctl32.dll
+First prototype PTE: e16d7048 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x822275e0 Start 0x771b0000 End 0x77255fff Tag Vad 
+Flags: CommitCharge: 7, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82309dd0 Segment e15546f0
+NumberOfSectionReferences:          1 NumberOfPfnReferences:         102
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82309d58, Name: \Device\HarddiskVolume1\WINDOWS\system32\wininet.dll
+First prototype PTE: e1554730 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x820d84f8 Start 0x77c10000 End 0x77c67fff Tag Vad 
+Flags: CommitCharge: 7, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81f0b758 Segment e15748c8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          68
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81f0b6e0, Name: \Device\HarddiskVolume1\WINDOWS\system32\msvcrt.dll
+First prototype PTE: e1574908 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cd3eb8 Start 0x77be0000 End 0x77bf4fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82126bf8 Segment e16e42e8
+NumberOfSectionReferences:          0 NumberOfPfnReferences:           9
+NumberOfMappedViews:               15 NumberOfUserReferences:         15
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @821264b8, Name: \Device\HarddiskVolume1\WINDOWS\system32\msacm32.dll
+First prototype PTE: e16e4328 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x822275b0 Start 0x77a80000 End 0x77b13fff Tag Vad 
+Flags: CommitCharge: 4, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81dcce20 Segment e157daf0
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          91
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81dccda8, Name: \Device\HarddiskVolume1\WINDOWS\system32\crypt32.dll
+First prototype PTE: e157db30 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81deb898 Start 0x77690000 End 0x776b0fff Tag Vad 
+Flags: CommitCharge: 3, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81df5198 Segment e17692a8
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          10
+NumberOfMappedViews:                7 NumberOfUserReferences:          7
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81ecc8a8, Name: \Device\HarddiskVolume1\WINDOWS\system32\ntmarta.dll
+First prototype PTE: e17692e8 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81c9d6f8 Start 0x77b20000 End 0x77b31fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81d5fab0 Segment e1550008
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          11
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81d5fa38, Name: \Device\HarddiskVolume1\WINDOWS\system32\msasn1.dll
+First prototype PTE: e1550048 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cd3e88 Start 0x77c00000 End 0x77c07fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @822c10e8 Segment e153d4e8
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           6
+NumberOfMappedViews:               20 NumberOfUserReferences:         21
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @822c1070, Name: \Device\HarddiskVolume1\WINDOWS\system32\version.dll
+First prototype PTE: e153d528 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cd9ae0 Start 0x77e70000 End 0x77f00fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @822c1d18 Segment e1534b08
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          99
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @822c1f90, Name: \Device\HarddiskVolume1\WINDOWS\system32\rpcrt4.dll
+First prototype PTE: e1534b48 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x82217718 Start 0x77f10000 End 0x77f55fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @81f14008 Segment e152d718
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          46
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81efd028, Name: \Device\HarddiskVolume1\WINDOWS\system32\gdi32.dll
+First prototype PTE: e152d758 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cd9558 Start 0x77f60000 End 0x77fd5fff Tag Vad 
+Flags: CommitCharge: 2, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82309830 Segment e1573008
+NumberOfSectionReferences:          1 NumberOfPfnReferences:          90
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @81f0bc58, Name: \Device\HarddiskVolume1\WINDOWS\system32\shlwapi.dll
+First prototype PTE: e1573048 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cf4d48 Start 0x77fe0000 End 0x77ff0fff Tag Vad 
+Flags: CommitCharge: 1, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @82126008 Segment e1639b48
+NumberOfSectionReferences:          0 NumberOfPfnReferences:          12
+NumberOfMappedViews:               23 NumberOfUserReferences:         23
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @82126140, Name: \Device\HarddiskVolume1\WINDOWS\system32\secur32.dll
+First prototype PTE: e1639b88 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x821280b8 Start 0x7ffb0000 End 0x7ffd3fff Tag Vad 
+Flags: NoChange: 1, Protection: 1
+Protection: PAGE_READONLY
+ControlArea @823c1ac0 Segment e100f690
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               27 NumberOfUserReferences:         27
+Control Flags: Commit: 1, HadUserReference: 1
+First prototype PTE: e100f6d0 Last contiguous PTE: e100f7e8
+Flags2: Inherit: 1, SecNoChange: 1
+
+VAD node @ 0x820892f0 Start 0x7f6f0000 End 0x7f7effff Tag Vad 
+Flags: NoChange: 1, Protection: 3
+Protection: PAGE_EXECUTE_READ
+ControlArea @81edb428 Segment e15d5008
+NumberOfSectionReferences:          1 NumberOfPfnReferences:           0
+NumberOfMappedViews:               24 NumberOfUserReferences:         25
+Control Flags: Based: 1, HadUserReference: 1, Reserve: 1
+First prototype PTE: e15d5048 Last contiguous PTE: e15d5840
+Flags2: SecNoChange: 1
+
+VAD node @ 0x81cd9588 Start 0x7c9c0000 End 0x7d1d3fff Tag Vad 
+Flags: CommitCharge: 31, ImageMap: 1, Protection: 7
+Protection: PAGE_EXECUTE_WRITECOPY
+ControlArea @822c2950 Segment e158f000
+NumberOfSectionReferences:          1 NumberOfPfnReferences:         570
+NumberOfMappedViews:               23 NumberOfUserReferences:         24
+Control Flags: Accessed: 1, File: 1, HadUserReference: 1, Image: 1
+FileObject @822c1ca0, Name: \Device\HarddiskVolume1\WINDOWS\system32\shell32.dll
+First prototype PTE: e158f040 Last contiguous PTE: fffffffc
+Flags2: Inherit: 1
+
+VAD node @ 0x81cdec98 Start 0x7ffd4000 End 0x7ffd4fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000001 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x821036e8 Start 0x7ffdf000 End 0x7ffdffff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81ce4b70 Start 0x7ffde000 End 0x7ffdefff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x820a1088 Start 0x7ffdd000 End 0x7ffddfff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000001 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81df4848 Start 0x7ffdc000 End 0x7ffdcfff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81df4a60 Start 0x7ffdb000 End 0x7ffdbfff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000001 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81eda7f8 Start 0x7ffda000 End 0x7ffdafff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x81eda790 Start 0x7ffd9000 End 0x7ffd9fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000001 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x8211f1f8 Start 0x7ffd8000 End 0x7ffd8fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
+VAD node @ 0x8211f3f0 Start 0x7ffd7000 End 0x7ffd7fff Tag Vadl
+Flags: CommitCharge: 1, MemCommit: 1, NoChange: 1, PrivateMemory: 1, Protection: 4
+Protection: PAGE_READWRITE
+First prototype PTE: 00000000 Last contiguous PTE: 00000000
+Flags2: LongVad: 1, OneSecured: 1
+
