@@ -1,0 +1,13 @@
+./malfind_svchost/process.0x82266870.0x720000.dmp: Win.Spyware.Zbot-9841872-0 FOUND
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3627917
+Engine version: 1.4.5
+Scanned directories: 1
+Scanned files: 1
+Infected files: 1
+Data scanned: 0.11 MB
+Data read: 0.11 MB (ratio 1.00:1)
+Time: 13.767 sec (0 m 13 s)
+Start Date: 2026:07:20 21:47:20
+End Date:   2026:07:20 21:47:34

@@ -1,0 +1,35 @@
+Offset(V)     Pid     Handle     Access Type             Details
+---------- ------ ---------- ---------- ---------------- -------
+0x820cebd8   1752       0x1c   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x822f3c60   1752       0x3c   0x100001 File             \Device\KsecDD
+0x8207de50   1752       0x40   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x81c8aad8   1752       0xd8   0x12019f File             \Device\NamedPipe\lsarpc
+0x81c8c8e8   1752       0xe4   0x120089 File             \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr107.tmp
+0x8206f028   1752       0xfc   0x12019f File             \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr106.tmp
+0x81c764c8   1752      0x1a0   0x100001 File             \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\Font
+0x81d22df8   1752      0x1a8   0x100001 File             \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Resource\CMap
+0x82213890   1752      0x1ac   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x820cbf90   1752      0x1c4   0x12019f File             \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr10C.tmp
+0x81dfadf0   1752      0x1d4   0x120089 File             \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\plugtmp\PDF.php
+0x81ec1960   1752      0x1d8   0x120089 File             \Device\HarddiskVolume1\Program Files\Adobe\Acrobat 6.0\Reader\Messages\ENU\RdrMsgENU.pdf
+0x820c50d0   1752      0x1e0   0x12019f File             \Device\HarddiskVolume1\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Acr110.tmp
+0x822137f8   1752      0x1f4   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x81c6f2d8   1752      0x1f8   0x100020 File             \Device\HarddiskVolume1\Documents and Settings\Administrator\Application Data\AdobeUM
+0x823b3dd8   1752      0x1fc   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x81ec8f90   1752      0x20c   0x12019f File             \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x820da3d8   1752      0x21c   0x12019f File             \Device\HarddiskVolume1\Documents and Settings\Administrator\Cookies\index.dat
+0x820da470   1752      0x224   0x12019f File             \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\History\History.IE5\index.dat
+0x820e2520   1752      0x270   0x1f01ff File             \Device\Afd\Endpoint
+0x820e25b8   1752      0x274   0x1f01ff File             \Device\Udp
+0x81dfaaf0   1752      0x290   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2180_x-ww_a84f1ff9
+0x820c7b98   1752      0x2d8   0x12019f File             \Device\NamedPipe\ROUTER
+0x820bd028   1752      0x2dc   0x1200a0 File             \Device\Tcp
+0x822eea70   1752      0x2e0   0x120116 File             \Device\Tcp
+0x81d003b0   1752      0x2e4   0x1200a0 File             \Device\Ip
+0x820d1b00   1752      0x2e8   0x100003 File             \Device\Ip
+0x81d00580   1752      0x2ec   0x1200a0 File             \Device\Ip
+0x81d16360   1752      0x31c   0x12019f File             \Device\NamedPipe\ROUTER
+0x820f11b0   1752      0x344   0x1f01ff File             \Device\Afd\Endpoint
+0x81d18f90   1752      0x348   0x1f01ff File             \Device\Tcp
+0x81d19eb8   1752      0x354  0x21f01ff File             \Device\Afd\AsyncConnectHlp
+0x81d14c58   1752      0x358   0x1f01ff File             \Device\Tcp

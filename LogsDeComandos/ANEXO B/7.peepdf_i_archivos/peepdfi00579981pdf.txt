@@ -1,0 +1,50 @@
+File: 00579981.pdf
+MD5: 1873297b6b3702817a760f95187236bc
+SHA1: a46d1a2be5a74d1bafc241294f49ad0122698ee0
+SHA256: d5a28d0a0ec261527f20a9326650469eebb9ce18f79f5573cd7861bd8f317887
+Size: 425 bytes
+IDs: 
+        Version 0: [ <345eee35b9d776479cc33d492c249b83> <345eee35b9d776479cc33d492c249b83> ]
+
+PDF Format Version: 1.5
+Binary: True
+Linearized: False
+Encrypted: False
+Updates: 0
+Objects: 3
+Streams: 0
+URIs: 0
+Comments: 0
+Errors: 0
+
+Version 0:
+        Catalog: 1
+        Info: 3
+        Objects (3): [1, 2, 3]
+        Streams (0): []
+
+
+[2026-07-16 00:55:40] File: 00579981.pdf
+MD5: 1873297b6b3702817a760f95187236bc
+SHA1: a46d1a2be5a74d1bafc241294f49ad0122698ee0
+SHA256: d5a28d0a0ec261527f20a9326650469eebb9ce18f79f5573cd7861bd8f317887
+Size: 425 bytes
+IDs: 
+        Version 0: [ <345eee35b9d776479cc33d492c249b83> <345eee35b9d776479cc33d492c249b83> ]
+
+PDF Format Version: 1.5
+Binary: True
+Linearized: False
+Encrypted: False
+Updates: 0
+Objects: 3
+Streams: 0
+URIs: 0
+Comments: 0
+Errors: 0
+
+Version 0:
+        Catalog: 1
+        Info: 3
+        Objects (3): [1, 2, 3]
+        Streams (0): []

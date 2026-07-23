@@ -1,0 +1,18 @@
+./malfind_winlogon/process.0x81e5b2e8.0xa10000.dmp: Win.Spyware.Zbot-9841872-0 FOUND
+./malfind_winlogon/process.0x81e5b2e8.0x7a330000.dmp: OK
+./malfind_winlogon/process.0x81e5b2e8.0x42e60000.dmp: OK
+./malfind_winlogon/process.0x81e5b2e8.0x7fc00000.dmp: OK
+./malfind_winlogon/process.0x81e5b2e8.0x26200000.dmp: OK
+./malfind_winlogon/process.0x81e5b2e8.0x24990000.dmp: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3627917
+Engine version: 1.4.5
+Scanned directories: 1
+Scanned files: 6
+Infected files: 1
+Data scanned: 0.27 MB
+Data read: 0.19 MB (ratio 1.41:1)
+Time: 9.215 sec (0 m 9 s)
+Start Date: 2026:07:16 11:38:37
+End Date:   2026:07:16 11:38:45

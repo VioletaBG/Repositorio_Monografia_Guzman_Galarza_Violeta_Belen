@@ -1,0 +1,1 @@
+2edfbcc4180f79789bb1bdc0eaf0417c  ./malfind_svchost/process.0x82266870.0x720000.dmp
